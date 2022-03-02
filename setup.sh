@@ -6,3 +6,5 @@ sudo apt -y install python3-pip
 pip3 install pycryptodome
 pip3 install crypto
 pip3 install pwntools
+echo "Installed Successfully"
+
