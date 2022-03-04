@@ -1,4 +1,4 @@
-Flag format = HTB{
+Flag format = HTB{asdasd}
 
 Description:
 
