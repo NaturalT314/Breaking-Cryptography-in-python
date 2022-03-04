@@ -1,3 +1,4 @@
-Best,
+... the virtual classroom section
+Thx.
 
-thx
+Sent from my iPhone
