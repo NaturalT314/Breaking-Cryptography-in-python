@@ -1,3 +1,5 @@
 Flag format = HTB{
-Descriptiom:
+
+Description:
+
 Who needs AES when you have XOR?
