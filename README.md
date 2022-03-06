@@ -2,7 +2,7 @@
 
 Run the following commands in the same directory as your setup.sh
 
-chmod +x ./setup.sh
+chmod +x ./0.setup.sh
 
-sudo ./setup.sh
+sudo ./0.setup.sh
 
